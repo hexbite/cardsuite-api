@@ -17,7 +17,7 @@
     "Cardsuite",
     "payment processor",
     "bitcoin",
-    "credit card",
+    "credit card"
   ],
   "main": "index.js",
   "scripts": {
